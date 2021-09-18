@@ -9,10 +9,10 @@ o	The precision{TP/(TP+FP)}
 o	Recall scores of all six machine learning models{YP/(TP+FN)
 
 Naïve Random Oversampling: accuracy score 64%, precision 99%, recall 55%
+![NaiveRandomOversampling](https://user-images.githubusercontent.com/83199109/133880287-ef59d20e-5bf2-485a-9387-5f0ab3832897.png)
 
 Smote Oversampling: accuracy score 66%, precision 99%, recall 69%
-![SmoteOversampling](https://user-images.githubusercontent.com/83199109/133879971-f953c8ea-561b-4bbe-bba4-dc24bba0d018.png)
-)
+
 
 Undersampling: accuracy score 54%, precision 99%, recall 42%
 ![Undersampling (2)](https://user-images.githubusercontent.com/83199109/133879988-2532cf1f-e9e6-45d9-92ac-d94957c54062.png)
